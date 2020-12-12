@@ -6,7 +6,7 @@
 
 I'm software engineer, husband, and father of 4 incredible children. Also, I'm @microsoft & @xamarinhq MVP.
 
-- 🔭 Currently I work as Tech Lead at XP Inc. 
-- 👯 I share content on Xamarin, Azure, and .Net in general.
+- 🔭 Currently I work as Engineering Manager at XP Inc.
+- 👯 I share content on Windows, Xamarin, Azure, and .Net in general.
 - 📫 You can find me at: https://twitter.com/willbuildapps
-- 💬 Ask me about: Xamarin, Azure, .Net in general, leadership, sourdough bread and fatherhood.
+- 💬 Ask me about: Windows, Xamarin, Azure, .Net in general, leadership, sourdough bread and fatherhood.
