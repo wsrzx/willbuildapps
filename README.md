@@ -4,9 +4,9 @@
 <a href="https://github.com/willbuildapps"><img src="https://img.shields.io/github/followers/willbuildapps?style=social" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/willbuildapps"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" /></a>
 
-I'm software engineer, husband, and father of 4 incredible children. Also, I'm @microsoft & @xamarinhq MVP.
+I'm husband and father of 4 incredible children. Also, I'm @microsoft & @xamarinhq MVP.
 
 - 🔭 Currently I work as Engineering Manager at XP Inc.
-- 👯 I share content on Windows, Xamarin, Azure, and .Net in general.
+- 👯 I share content on Leadership and software engineering.
 - 📫 You can find me at: https://twitter.com/willbuildapps
-- 💬 Ask me about: Windows, Xamarin, Azure, .Net in general, leadership, sourdough bread and fatherhood.
+- 💬 Ask me about: Leadership, Mobile, Windows, Xamarin, Azure, .Net in general, sourdough bread and fatherhood.
