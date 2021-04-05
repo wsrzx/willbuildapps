@@ -4,7 +4,7 @@
 <a href="https://github.com/willbuildapps"><img src="https://img.shields.io/github/followers/willbuildapps?style=social" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/willbuildapps"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" /></a>
 
-Software engineer, husband and father of 4 incredible children. Also, I'm community supporter trying to use my coding skills to change people's life. 
+Husband, father of 4 incredible children and a community supporter trying to use my coding skills to change people's life. @Microsoft and @Xamarin MVP
 
 #focus #gratitude #love #followthatmonkey
 
