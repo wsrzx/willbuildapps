@@ -4,7 +4,12 @@
 <a href="https://github.com/willbuildapps"><img src="https://img.shields.io/github/followers/willbuildapps?style=social" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/willbuildapps"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" /></a>
 
-Husband, father of 4 incredible children and a community supporter trying to use my coding skills to change people's life. @Microsoft and @Xamarin MVP
+- 😊 Husband & dad of 4 incredible children
+- 🙋 Community supporter
+- ⭐ +7 years as Microsoft MVP
+- 🐵 Former Xamarin MVP
+- 👉 It never hurts to help
+- 🛡️ Lawful Good
 
 #focus #gratitude #love #followthatmonkey
 
