@@ -14,5 +14,4 @@
 #focus #gratitude #love #followthatmonkey
 
 - 👯 I share content on leadership and software engineering.
-- 📫 You can find me at: https://twitter.com/willbuildapps
 - 💬 Ask me about: Leadership, Mobile, Windows, Xamarin, Azure, .Net in general, sourdough bread and fatherhood.
